@@ -1,0 +1,3 @@
+wordsEnglish.txt
+wordsLatin.txt
+10

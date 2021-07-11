@@ -1,0 +1,46 @@
+1
+Joao da Silva
+123.456.789.00
+Rua das Tulipas, 555
+01/01/2005
+S
+2
+PrintMIX
+PrintMIX - Servicos de Impressao LTda.
+000.000.000.000
+Rua das Goiabas, 666, Criciuma, SC
+01/01/2018
+12000.00
+1
+Antonio Carlos Sobieranski
+123.456.789.00
+UFSC Jardim das Avenidas, 333, Ararangua, SC
+01/01/1990
+C
+1
+Gustavo Alberto Soares
+222.222.222-66
+Rua dos Abacates, 333, Mafra, PR
+01/01/2005
+S
+1
+Ricardo Antonio Pimenta
+444.444.444-77
+Rua das Tulipas, 555, Sao Paulo, SP
+01/01/2001
+C
+1
+Rodrigo Linhares
+444.444.444-77
+Rua das Tulipas, 555, Sao Paulo, SP
+01/01/2001
+C
+2
+Antonios Pizzaria
+Antonios Pizzaria - Eventos e Comilanca.
+222.222.222.222
+Rua das Palmeiras, 222, Lages, SC
+01/01/2015
+30000.00
+5
+7

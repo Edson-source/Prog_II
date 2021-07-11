@@ -1,0 +1,3 @@
+wordsTest1.txt
+wordsTest4.txt
+1
