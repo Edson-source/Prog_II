@@ -1,2 +1,2 @@
-# Prog II
--Learning Github with my first Repository
+# Hi, this is my Prog II repository
+- Language C++
